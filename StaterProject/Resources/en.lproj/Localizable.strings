@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  QWALL
+  Created by Tops on 12/4/17.
+  Copyright © 2017 Tops. All rights reserved.
+*/
+
+// GENERAL MESSAGES
+Norecords                            = "No data found!";
+ERROR_CALL                           = "No Internet connection. Make sure that the Wifi or Mobile data is turned on, then try again."; //"Looks like the server is taking to long to respond, this can be caused by either poor connectivity or an error with our servers. Please try again in a while";
+SearchPlaceholder                    = "Search...";
+
+/*                      LOGIN SCREEN                */
+"KeyVLEmail"                         = "Please enter Email Id";
+"KeyVVLEmail"                        = "Please enter valid Email Id";
+"keyVPassword"                       = "Please enter password.";
+"Error_credentil"                    = "Incorrect Email Id or password";
+"keyVPassword6"                      = "Password must be atleast 6 character";
+"KeyVEmail"                          = "Email Id";
+"KeyVPass"                           = "Password";
+"KeyVLblLogin"                       = "SIGN IN";
+"KeyVbtnLogin"                       = "SIGN IN";
+"KeyVbtnForgot"                      = "Forgot your password? Click to reset";
+"KeySUbtnTerms"                      = "TERMS & CONDITIONS"; //Terms & Conditions
+"KeySUbtnsupport"                    = "SUPPORT";
+"KeySUbtnback"                       = "Already have an account? Sign In";
+
+// forgot screen
+"KeyFlblForgot"                      = "FORGOT PASSWORD";
+"KeyFbtnForgot"                      = "SUBMIT";
+"KeyFlblDisc"                        = "Enter your email below to receive your password reset instructions.";
+
+//SignUP validations
+"KeySUName"                         = "Full Name";
+"KeyVLUname"                        = "Please enter full name";
+"KeySUPass"                         = "Password";
+"KeySUComPass"                      = "Confirm Password";
+"KeySUEmail"                        = "Email Id";
+"KeySUBdate"                        = "Date of Birth";
+"KeySUtitle"                        = "SIGN UP";
+"KeySUbtnSignup"                    = "SIGN UP";
+
+"kSignupPasswordEnter"              = "Please enter password.";
+"kSignupPasswordConEnter"           = "Please enter confirm password.";
+"kSignupPasswordnotMatch"           = "Password and confirm password should be same.";
+"kSignupBdate"                      = "Please select Date of birth.";
+"kSUPassvalidation"                 = "Password should have min 6 characters with atleast 1 upper case, 1 lower case, 1 special character and 1 numeric character.";
+"kSUConPassvalidation"              = "confirm password should have min 6 characters with atleast 1 upper case, 1 lower case, 1 special character and 1 numeric character.";
+
+"kSUPassvalidation"                 = "Password should have min 6 characters long with 1 upper case, 1 lower case, 1 numeric and 1 special character.";
+"kSUConPassvalidation"              = "Confirm password should be 6 or 8 characters with contain at least 1 upper case, 1 lower case, 1 special charcter and 1 numeric.";
+
+//Change Password
+"keySUChangePasswordsrcNew"         = "Please enter new password.";
+"keySUChangePasswordsrcNewVV"       = "New password should have min 6 characters with atleast 1 upper case, 1 lower case, 1 special character and 1 numeric character.";
+"keySUChangePasswordsrcCon"         = "Please enter confirm password.";
+"keySUChangePasswordsrcConVV"       = "Confirm password should have min 6 characters with atleast 1 upper case, 1 lower case, 1 special character and 1 numeric character.";
+"keySUChangePasswordsrcOlD"         = "Please enter old password.";
+"keySUChangePasswordsrcOlDVV"       = "Old password should have min 6 characters with atleast 1 upper case, 1 lower case, 1 special character and 1 numeric character.";
+"keySUChangePasswordsame"           = "New password can't be same as old password.";
+"keySUChangePasswordsrcConfirm"     = "New password and confirm password should be same.";
+
+"keySUChangePasswordsrcNewVV"       = "New password should be 6 or 8 characters with contain at least 1 upper case, 1 lower case, 1 special charcter and 1 numeric.";
+
+"keySUChangePasswordsrcCon"         = "Please enter confirm password.";
+"keySUChangePasswordsrcConVV"       = "Confirm password should be 6 or 8 characters with contain at least 1 upper case, 1 lower case, 1 special charcter and 1 numeric.";
+
+"keySUChangePasswordsrcOlD"         = "Please enter old password.";
+"keySUChangePasswordsrcOlDVV"       = "Old password should be 6 or 8 characters with contain at least 1 upper case, 1 lower case, 1 special charcter and 1 numeric.";
+
+"keySUChangePasswordsrcConfirm"     = "New password and confirm new password should be same.";
+
+
+
+//InterNet Message
+"keyInternetMsg" = "Ops. something went wrong please try again.";
+
+//Edit Profile Screen
+"KeyEPRTitle"                    = "EDIT PROFILE";
+"KeyEPRUploadPicsLBL"               = "UPLOAD PHOTO";
+"KeyEPRUserName"                    = "UserName";
+"KeyEPRFirstName"                    = "Full name";
+"KeyEPRUserEmail"                    = "Email Id";
+"KeyEPRUserBD"                    = "Date of Birthday";
+"KeyEPRUserPhonNo"                    = "Phone Number";
+"KeyEPRSaveChanges"                    = "SAVE CHANGES";
+
+//Add Location Screen
+"KeyALTitle"                        = "ADD LOCATION";
+"KeyALAlcohole"               = "Where do you want us to deliver the Alcohole?";
+"KeyALTextAddress"                    = "Enter Street Address";
+"KeyALOR"                    = "OR";
+"KeyALFindMyLocation"                    = "FIND MY CURRENT LOCATION";
+"keyNoCamera" = "Camera is not available.";
+"keyCASBtnOK" = "Ok";
+"keyCASNoCameraFoundTitleMsg" = "Alert";
+
+
+"keyDeviceEmailNotSupportAlert" = "Your device could not send e-mail.  Please check e-mail configuration and try again.";
+
+

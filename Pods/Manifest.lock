@@ -1,0 +1,61 @@
+PODS:
+  - Alamofire (4.6.0)
+  - DropDown (2.0.2)
+  - IQKeyboardManagerSwift (5.0.7)
+  - ISMessages (1.2)
+  - libwebp (0.6.0):
+    - libwebp/core (= 0.6.0)
+    - libwebp/dec (= 0.6.0)
+    - libwebp/demux (= 0.6.0)
+    - libwebp/dsp (= 0.6.0)
+    - libwebp/enc (= 0.6.0)
+    - libwebp/mux (= 0.6.0)
+    - libwebp/utils (= 0.6.0)
+    - libwebp/webp (= 0.6.0)
+  - libwebp/core (0.6.0):
+    - libwebp/webp
+  - libwebp/dec (0.6.0):
+    - libwebp/core
+  - libwebp/demux (0.6.0):
+    - libwebp/core
+  - libwebp/dsp (0.6.0):
+    - libwebp/core
+  - libwebp/enc (0.6.0):
+    - libwebp/core
+  - libwebp/mux (0.6.0):
+    - libwebp/core
+  - libwebp/utils (0.6.0):
+    - libwebp/core
+  - libwebp/webp (0.6.0)
+  - Pulsator (0.4.0)
+  - SDWebImage/Core (4.2.2)
+  - SDWebImage/WebP (4.2.2):
+    - libwebp
+    - SDWebImage/Core
+  - SpinKit (1.2.0)
+  - SwipeCellKit (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - DropDown
+  - IQKeyboardManagerSwift
+  - ISMessages
+  - Pulsator
+  - SDWebImage/WebP
+  - SpinKit
+  - SwipeCellKit
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  DropDown: 75562633a203f57a917021b4edb96c76f293b0ec
+  IQKeyboardManagerSwift: 30fb3a61de1af53a95e02b80fb54ed0a19d5ede5
+  ISMessages: d39098b48672813d69d30f44da06260b9920fed4
+  libwebp: 1d5a07c2eb97f9c31bd5f154bb82efc0ea67c6a2
+  Pulsator: a0e7c006790a576de63280b2f0552ea1c1b83ce0
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+  SpinKit: 65906a8b534a4e14cbfd3f8b0b6c329131faef4a
+  SwipeCellKit: 349c61ffde96ac3ae51c2691a03e421b5b29ee98
+
+PODFILE CHECKSUM: 71ca42d1c78d4d89a4a772810a47e3edcdd0367b
+
+COCOAPODS: 1.2.1
