@@ -2,8 +2,8 @@
 //  UIColor+Extentions.swift
 //  Humati
 //
-//  Created by Tops on 10/3/17.
-//  Copyright © 2017 Tops. All rights reserved.
+//  Created by Self on 10/3/17.
+//  Copyright © 2017   All rights reserved.
 //
 
 import UIKit

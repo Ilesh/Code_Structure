@@ -1,6 +1,6 @@
 //
 //  ViewTimePicker.swift
-//  Copyright © 2016 Tops. All rights reserved.
+//  Copyright © 2016   All rights reserved.
 //
 
 import UIKit

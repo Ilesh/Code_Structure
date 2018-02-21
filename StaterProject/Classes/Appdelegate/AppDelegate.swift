@@ -14,6 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate,UITabBarControllerDelegate
     var notificationObj : NotificationVC?
     var settingObj: SettingVC?
     var tabBarController: UITabBarCustom!
+    var orientationLock = UIInterfaceOrientationMask.portrait
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         IQKeyboardManager.sharedManager().enable = true
@@ -63,6 +64,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate,UITabBarControllerDelegate
         Singleton.sharedSingleton.is_FromSocialLogin = false
     
         self.navController?.popToRootViewController(animated: true)
+    }
+    
+    func application(_ application: UIApplication, supportedInterfaceOrientationsFor window: UIWindow?) -> UIInterfaceOrientationMask {
+        return self.orientationLock
     }
     
     //MARK: Cutom tab bar for Agent

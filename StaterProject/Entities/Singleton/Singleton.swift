@@ -2,8 +2,8 @@
 //  Singleton.swift
 //  chilax
 //
-//  Created by Tops on 6/13/17.
-//  Copyright © 2017 Tops. All rights reserved.
+//  Created by Self on 6/13/17.
+//  Copyright © 2017   All rights reserved.
 //
 
 import UIKit

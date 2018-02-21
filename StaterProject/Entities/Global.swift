@@ -2,13 +2,11 @@
 //  Global.swift
 //
 //  Created by on 6/13/17.
-//  Copyright © 2017 Tops. All rights reserved.
-//  Update New branch for M4Dev
+//  Copyright © 2017 Ilesh. All rights reserved.
 
 import UIKit
 class Global {
     
-    //address xml
     static let DeviceUUID = UIDevice.current.identifierForVendor!.uuidString
     static let PhoneDigitLimit = 11
     static let UserNameDigitLimit = 50
@@ -47,6 +45,23 @@ class Global {
             #endif
                 return false
         }()
+    }
+    
+    struct AppUtility {
+        
+        static func lockOrientation(_ orientation: UIInterfaceOrientationMask) {
+            
+            Global.appDelegate.orientationLock = orientation
+        }
+        
+        /// OPTIONAL Added method to adjust lock and rotate to the desired orientation
+        static func lockOrientation(_ orientation: UIInterfaceOrientationMask, andRotateTo rotateOrientation:UIInterfaceOrientation) {
+            
+            self.lockOrientation(orientation)
+            
+            UIDevice.current.setValue(rotateOrientation.rawValue, forKey: "orientation")
+        }
+        
     }
     
     //Device Compatibility

@@ -2,7 +2,7 @@
 //  LocalizeHelper.swift
 //  Structure_Demo_Swift3
 //
-//  Created by Tops on 5/9/17.
+//  Created by Self on 5/9/17.
 //  Copyright © 2017 Self. All rights reserved.
 //
 

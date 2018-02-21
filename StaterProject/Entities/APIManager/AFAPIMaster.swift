@@ -2,8 +2,8 @@
 //  AFAPIMaster.swift
 //  chilax74-16
 //
-//  Created by Tops on 6/15/17.
-//  Copyright © 2017 Tops. All rights reserved.
+//  Created by Self on 6/15/17.
+//  Copyright © 2017 Ilesh. All rights reserved.
 //  Ilesh 
 
 import UIKit

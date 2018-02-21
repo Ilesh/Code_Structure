@@ -2,7 +2,7 @@
 //  ShareFAQ.swift
 //  Alcohol
 //
-//  Created by Tops on 1/18/18.
+//  Created by Self on 1/18/18.
 //  Copyright © 2018 Self. All rights reserved.
 //
 

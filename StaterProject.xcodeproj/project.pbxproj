@@ -206,7 +206,6 @@
 				E76327D3202080E800A85AF2 /* Appdelegate */,
 				E76327D5202080E800A85AF2 /* Dashboard */,
 				E76327E1202080E800A85AF2 /* Notification */,
-				E76327E4202080E800A85AF2 /* OrderedVC */,
 				E76327E8202080E800A85AF2 /* Settings */,
 				E76327F0202080E800A85AF2 /* UserCommon */,
 			);
@@ -237,13 +236,6 @@
 				E76327E3202080E800A85AF2 /* NotificationVC.xib */,
 			);
 			path = Notification;
-			sourceTree = "<group>";
-		};
-		E76327E4202080E800A85AF2 /* OrderedVC */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = OrderedVC;
 			sourceTree = "<group>";
 		};
 		E76327E8202080E800A85AF2 /* Settings */ = {

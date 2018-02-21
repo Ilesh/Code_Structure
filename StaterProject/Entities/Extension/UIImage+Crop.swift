@@ -2,8 +2,8 @@
 //  UIImage+Crop.swift
 //  Humati
 //
-//  Created by Tops on 9/8/17.
-//  Copyright © 2017 Tops. All rights reserved.
+//  Created by Self on 9/8/17.
+//  Copyright © 2017   All rights reserved.
 //
 
 import Foundation

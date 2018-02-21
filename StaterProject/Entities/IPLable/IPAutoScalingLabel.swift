@@ -2,7 +2,7 @@
 //  IPAutoScalingLabel.swift
 //  RAVAS
 //
-//  Created by Tops on 12/15/17.
+//  Created by Self on 12/15/17.
 //  Copyright © 2017 Self. All rights reserved.
 //
 

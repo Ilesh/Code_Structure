@@ -2,7 +2,7 @@
 //  SharedLocationData.swift
 //  Alcohol
 //
-//  Created by Tops on 1/10/18.
+//  Created by Self on 1/10/18.
 //  Copyright © 2018 Self. All rights reserved.
 //
 

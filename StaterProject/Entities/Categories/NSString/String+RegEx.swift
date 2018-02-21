@@ -1,9 +1,9 @@
 //
 //  String+RegEx.swift
-//  chilax
 //
-//  Created by Tops on 6/26/17.
-//  Copyright © 2017 Tops. All rights reserved.
+//
+//  Created by self on 6/26/17.
+//  Copyright © 2017 self. All rights reserved.
 //
 
 import UIKit

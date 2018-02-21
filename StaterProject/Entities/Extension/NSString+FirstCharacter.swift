@@ -2,8 +2,8 @@
 //  NSString+FirstCharacter.swift
 //  Lyst
 //
-//  Created by Tops on 3/25/16.
-//  Copyright © 2016 Tops. All rights reserved.
+//  Created by Self on 3/25/16.
+//  Copyright © 2016   All rights reserved.
 //
 
 import UIKit
